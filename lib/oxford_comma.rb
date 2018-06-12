@@ -11,6 +11,3 @@ def oxford_comma(array)
 end
 
 
-[1,4].insert(1,*[2,3])
-
-
