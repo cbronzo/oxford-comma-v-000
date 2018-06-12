@@ -12,9 +12,3 @@ def oxford_comma(array)
   end
 end
 
-
-
-    array.pop
-    array.push(new_last_array_item)
-    return array.join(", ")
-
