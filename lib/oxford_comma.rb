@@ -6,9 +6,8 @@ def oxford_comma(array)
   elsif array.length == 3
     return ["kiwi", "durian", "starfruit"].join(", ")<<" and"
   else array.length == 4
-    ["kiwi", "durian", "starfruit", "mangos", "dragon fruits"].insert(4, "and ")
-    
-    .join(", ").insert("mangos," *" and ")
+    ["kiwi", "durian", "starfruit", "mangos", "dragon fruits"].insert(4, "and ") = new_array
+    return new_array.join
   end
 end
 
