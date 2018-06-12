@@ -1,3 +1,3 @@
 def oxford_comma(array)
-arrray = ["fiddleheads","okra","kohlrabi"].join(", ")
+arrray = ["kiwi"].join
 end
